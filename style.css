@@ -1,0 +1,12 @@
+@media (min-width: 480px) {
+    #imgbanner {
+      height: 200px;
+      width: 750px;
+    }
+  }
+  @media (max-width: 476px) {
+    #imgbanner {
+      height: 200px;
+      width: 750px;
+    }
+  }
